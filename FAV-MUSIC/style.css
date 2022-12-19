@@ -260,6 +260,7 @@ ul li.playing{
 }
 
 .pembungkus-music h1{
+  font-weight: 700;
   width: 98vw;
   text-align: center;
   font-size: 38px;
